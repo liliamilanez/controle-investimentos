@@ -38,5 +38,7 @@ Insira seus dados nas células de configuração e os cálculos serão atualizad
 Dependências
 Microsoft Excel ou software compatível com fórmulas de Excel
 
+Foi feito com algumas fórmulas simples, mas a principal fórmula usada foi a Procv e é a primeira vez que coloquei em uma situação "real", mas vou praticar mais vezes. 
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias porque estou aprendendo e iniciando e me ajudaria muito ajuda e sugestões :)
 
