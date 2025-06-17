@@ -16,7 +16,7 @@ Permite configurar:
 
 Salário mensal
 Rendimento da carteira
-Sugestão automática de valor para investir (30% do salário no exemplo)
+Sugestão automática de valor para investir 
 
 4. Alocação de Ativos por Perfil
 Sistema de alocação automática em diferentes tipos de Fundos Imobiliários (FIIs) baseado em:
